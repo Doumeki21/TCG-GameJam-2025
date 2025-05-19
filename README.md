@@ -1,4 +1,4 @@
-# TCG-GameJam-2025
+# TCG X COREBLAZER GameJam 2025
 
 Link to Game Jam page: https://itch.io/jam/tgcxcoreblazer
 
